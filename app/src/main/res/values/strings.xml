@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">GameChronicle</string>
+    <string name="title">Title</string>
+    <string name="overview">Overview</string>
+    <string name="desc">Description</string>
+    <string name="about">About Me</string>
+    <string name="name">Muhamad Atsil Rifqi Riyansyah</string>
+    <string name="email">riyanatsil@gmail.com</string>
+    <string-array name="game_data">
+        <item>Valorant</item>
+        <item>Mobile Legend</item>
+        <item>PUBG Mobile</item>
+        <item>Genshin Impact</item>
+        <item>Fortnite</item>
+        <item>CS:GO</item>
+        <item>Fifa 2023</item>
+        <item>NFS: Heat</item>
+        <item>Subnautica</item>
+        <item>Left 4 Dead</item>
+    </string-array>
+    <string-array name="overview_data">
+        <item>Valorant is an exhilarating and highly competitive multiplayer FPS that transports players to a near-future world where strategic prowess and precise aiming skills reign supreme.</item>
+        <item>Mobile Legends: Bang Bang is a captivating and fast-paced mobile gaming phenomenon that has redefined the competitive gaming landscape on smartphones and tablets.</item>
+        <item>PUBG Mobile is a revolutionary mobile gaming phenomenon that brings the battle royale genre to the palm of your hand.</item>
+        <item>Genshin Impact is a mesmerizing journey into the fantastical realm of Teyvat, a land teeming with magic, mystery, and adventure.</item>
+        <item>Fortnite is an electrifying and ever-evolving gaming experience that catapults players into the immersive world of battle royale competition.</item>
+        <item>Counter-Strike: Global Offensive is a timeless classic in the world of esports and competitive gaming.</item>
+        <item>FIFA 23 represents a pinnacle of virtual football excellence, embodying the beautiful game in all its glory.</item>
+        <item>Need for Speed Heat (NFS Heat), developed by Ghost Games and published by Electronic Arts, is a high-octane racing game that takes players to the neon-lit streets of Palm City.</item>
+        <item>"Subnautica" is a captivating and immersive underwater survival adventure game that plunges players into an alien ocean world of wonder and danger.</item>
+        <item>"Left 4 Dead" is an adrenaline-pumping, cooperative first-person shooter that thrusts players into the heart of a relentless zombie apocalypse.</item>
+    </string-array>
+    <string-array name="photo_data">
+        <item>@drawable/valorant</item>
+        <item>@drawable/mlbb</item>
+        <item>@drawable/pubgm</item>
+        <item>@drawable/genshinimpact</item>
+        <item>@drawable/fortnite</item>
+        <item>@drawable/csgo</item>
+        <item>@drawable/fifa</item>
+        <item>@drawable/nfs</item>
+        <item>@drawable/subnautica</item>
+        <item>@drawable/left4dead</item>
+    </string-array>
+    <string-array name="details_data">
+        <item>\n Valorant is an exhilarating and highly competitive multiplayer FPS that transports players to a near-future world where strategic prowess and precise aiming skills reign supreme. Developed by Riot Games, the same studio behind the wildly successful League of Legends, Valorant combines the intensity of a traditional tactical shooter with a distinct character-based system, delivering an experience that\'s as exhilarating as it is challenging.\n
+            In Valorant, players are divided into two teams: Attackers and Defenders. The core objective varies between game modes but typically involves planting or defusing a spike (a bomb-like device) or eliminating the opposing team. What sets Valorant apart from other shooters is its cast of unique Agents, each with their own special abilities. These abilities add an extra layer of strategy to the game, allowing players to create diverse team compositions and execute game-changing tactics.</item>
+        <item>\n Mobile Legends: Bang Bang is a captivating and fast-paced mobile gaming phenomenon that has redefined the competitive gaming landscape on smartphones and tablets. In a world where the battle for supremacy knows no boundaries, players are drawn into the fantastical land of the Land of Dawn, where epic 5v5 battles unfold in real-time.\n
+            The game features a diverse roster of heroes, each with unique abilities, strengths, and roles, allowing players to assemble a balanced team and devise winning strategies. From agile assassins to sturdy tanks and powerful mages, the hero selection caters to various playstyles, making every match a dynamic and exhilarating experience.</item>
+        <item>\n PUBG Mobile is a revolutionary mobile gaming phenomenon that brings the battle royale genre to the palm of your hand. Set in a vast and ever-evolving battleground, this game thrusts players into intense, heart-pounding confrontations where only the strongest and most strategic survive. From the moment you parachute onto the island, you\'re immersed in a high-stakes battle for survival and supremacy.\n
+            The game\'s premise is simple yet endlessly captivating: you\'re one of 100 players dropped onto an expansive island with nothing but the clothes on your back. As the safe zone shrinks over time, you must scavenge for weapons, gear, and supplies while evading or engaging with other players. PUBG Mobile\'s realistic graphics and immersive audio create an unparalleled sense of tension and excitement as you navigate the perilous landscape.</item>
+        <item>\n Genshin Impact is a mesmerizing journey into the fantastical realm of Teyvat, a land teeming with magic, mystery, and adventure. As a Traveler, you embark on a quest to find your lost sibling, but your journey quickly evolves into an epic quest to unravel the secrets of Teyvat and restore balance to a world in turmoil.\n
+            One of Genshin Impact\'s most striking features is its meticulously crafted open world. The expansive landscapes, diverse regions, and awe-inspiring vistas are nothing short of breathtaking. From the verdant plains of Mondstadt to the lush forests of Liyue, each region boasts its own unique culture, creatures, and challenges. The game\'s dynamic weather and day-night cycle add depth and realism to the world, making exploration a joyous and immersive experience.</item>
+        <item>\n Fortnite is an electrifying and ever-evolving gaming experience that catapults players into the immersive world of battle royale competition. Set on the colorful and constantly changing island of Fortnite, the game pits 100 players against each other in a frenetic fight for survival and victory. As the last person or squad standing, you\'ll need to outlast, outwit, and outshoot your rivals to claim the coveted Victory Royale.\n
+            One of Fortnite\'s standout features is its unparalleled visual style. With its vibrant, cartoony graphics and imaginative character designs, the game creates an inviting and dynamic world that appeals to players of all ages. The island itself is a marvel, evolving with each season to introduce new locations, themes, and surprises. From lush forests to bustling urban areas and alien landscapes, every corner of Fortnite\'s map offers unique opportunities and challenges.</item>
+        <item>\n Counter-Strike: Global Offensive is a timeless classic in the world of esports and competitive gaming. This first-person shooter is a heart-pounding and adrenaline-fueled experience that pits two teams against each other: terrorists and counter-terrorists. Players assume the roles of elite operatives, each with unique equipment and weapons, as they engage in rounds of intense tactical combat.\n
+            CS:GO is renowned for its unforgiving gameplay that rewards precision, strategy, and teamwork. Unlike many modern shooters, CS:GO features no respawns during rounds, creating an atmosphere of high-stakes tension. Whether you\'re on the side of the terrorists, attempting to plant a bomb, or a counter-terrorist working to defuse it, every move counts. Communication and coordination with your team are crucial for success.</item>
+        <item>\n FIFA 23 represents a pinnacle of virtual football excellence, embodying the beautiful game in all its glory. It provides players with the opportunity to take control of their favorite clubs and players from around the world, stepping onto the virtual pitch to experience the thrill of football at its finest.\n
+            The realism of FIFA 23 is striking, with lifelike player animations, stadium atmospheres, and even the rustling of the nets as you score a goal. Every match feels like a broadcast-quality event, thanks to the attention to detail in the game\'s graphics and presentation.</item>
+        <item>\n Need for Speed Heat (NFS Heat), developed by Ghost Games and published by Electronic Arts, is a high-octane racing game that takes players to the neon-lit streets of Palm City, where the thrill of underground street racing meets the intensity of law enforcement pursuit. Released in 2019, NFS Heat is the 24th installment in the iconic Need for Speed franchise, and it brings a unique blend of day and night racing, customization, and adrenaline-pumping action to the forefront.\n
+            Set in an open-world environment inspired by the culture of Miami, NFS Heat offers players the freedom to explore a sprawling cityscape filled with diverse districts, scenic routes, and challenging races. The game\'s day and night cycle dramatically influences the gameplay. During the day, players compete in legal races to earn money and upgrade their cars, while at night, they participate in illicit street races to build their reputation and evade the relentless police force.</item>
+        <item>\n "Subnautica" is a captivating and immersive underwater survival adventure game that plunges players into an alien ocean world of wonder and danger. Developed and published by Unknown Worlds Entertainment, this game offers a unique and thrilling experience that has garnered widespread acclaim since its initial release in 2018.\n
+            Set on the mysterious ocean planet of 4546B, "Subnautica" casts players in the role of the lone survivor of the Aurora, a spaceship that has crash-landed on this uncharted aquatic world. As you emerge from the wreckage, you find yourself surrounded by an endless expanse of crystal-clear waters, coral reefs, and breathtaking underwater ecosystems. But beware, for this seemingly serene ocean hides secrets, wonders, and perils beyond imagination.</item>
+        <item>\n "Left 4 Dead" is an adrenaline-pumping, cooperative first-person shooter that thrusts players into the heart of a relentless zombie apocalypse. Developed by Valve and released in 2008, this iconic game is known for its intense, fast-paced action and its emphasis on teamwork and survival.\n
+            Set in a world overrun by a viral outbreak that has transformed most of the population into ravenous zombies, "Left 4 Dead" places players in the shoes of one of four survivors: Bill, Francis, Louis, and Zoey. Each character has their own personality and backstory, adding depth to the gameplay.</item>
+    </string-array>
+</resources>
